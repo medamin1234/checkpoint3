@@ -2,6 +2,8 @@ import Card from "react-bootstrap/Card";
 
 const Characteristics = ({ items }) => {
   return (
+    // card components
+
     <div>
       <Card style={{ width: "18rem" }}>
         <Card.Img
