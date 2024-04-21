@@ -1,0 +1,15 @@
+[
+  {
+    "name": "IPHONE 15",
+    "price": "7 299,00 TND",
+    "description": "L'iPhone 15 est un smartphone haut de gamme sorti le 12 septembre 2023. Il est équipé d'un écran Super Retina XDR OLED de 6,1 pouces, d'un processeur A16 Bionic",
+    "image":
+      "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=90&crop=false"
+  },  {
+    "name": "macbook pro",
+    "price": "5 899,00 TND",
+    "description": "MacBook Pro 15 pouces Le 14 octobre 2008, lors d'une keynote au siège d'Apple, est présenté le nouveau MacBook Pro utilisant la coque unibody",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxaCTSaLmiFHAzFRCeqOpTHcnLaLGAPdr4hhe0dgbSIw&s"
+  }
+]
